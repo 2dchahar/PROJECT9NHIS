@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-openai
+openai
+newsapi-python
+python-dotenv
+sqlite-utils
+fpdf
+pandas
+plotly
+bcrypt
